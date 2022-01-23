@@ -1,0 +1,10 @@
+[27-Oct-2021 16:48:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:48:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:49:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:49:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:49:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:50:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:50:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[27-Oct-2021 16:50:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[29-Oct-2021 13:46:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
+[29-Oct-2021 13:55:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6el53cpzky/public_html/jpsr.in/admin/dbConnection.php on line 2
